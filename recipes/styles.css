@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(41, 35, 95);
+}
+.home-page,
+.h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(10, 117, 240);
+    text-align: center;
+    background-color: rgb(85, 12, 221);
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.home-page.section {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color:rgb(240, 10, 41);
+    text-align: center;
+    background-color: rgb(235, 145, 145);
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+h1 {
+    color: beige
+}
