@@ -1,22 +1,33 @@
 body {
     background-color: rgb(41, 35, 95);
+    padding: 10px;
 }
-.home-page,
-.h1 {
+
+.hero {
+    background-color: rgb(44, 34, 61);
+    margin: 80, 40,;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.heading {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 40px;
+    font-size: 35px;
     font-weight: bold;
     color: rgb(10, 117, 240);
     text-align: center;
     background-color: rgb(85, 12, 221);
     border-radius: 20px;
     padding: 10px;
-    margin-top: 40px;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin: 40px;
 }
 
-.home-page.section {
+.gif {
+    text-align: center;
+    image-resolution: auto;
+}
+
+.page-links {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
     color:rgb(240, 10, 41);
@@ -24,7 +35,5 @@ body {
     background-color: rgb(235, 145, 145);
     border-radius: 20px;
     padding: 10px;
-    margin-top: 40px;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin: 40px;
 }
